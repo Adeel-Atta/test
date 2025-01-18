@@ -1,0 +1,74 @@
+{
+    "name": "Decentr ai",
+    "symbol": "DCAI",
+    "description": "Decentr Ai token",
+    "image": "https://violet-accepted-tiger-503.mypinata.cloud/ipfs/bafkreieyr72sbgbd5d6cdsybb4semp5eeen3xasvabzjmt6ae2p6etmx5e",
+    "external_url": "https://testnet.decentr.ai",
+    "attributes": [
+        {
+            "trait_type": "Token Type",
+            "value": "AI Utility Token"
+        },
+        {
+            "trait_type": "Usage",
+            "value": "AI Model Access"
+        },
+        {
+            "trait_type": "Token Generation",
+            "value": "1.0"
+        }
+    ],
+    "properties": {
+        "usage_details": {
+            "conversion_rate": "1 token = 50 compute credits",
+            "supported_models": [
+                "GPT Models",
+                "Image Generation",
+                "Voice Models",
+                "Custom AI Models",
+                "All Latest Models"
+            ],
+            "access_levels": [
+                "Pay-per-use",
+                "Subscription based",
+                "Model training credits"
+            ]
+        },
+        "marketplace_info": {
+            "platform_url": "https://testnet.decentr.ai",
+            "supported_features": [
+                "Model Access",
+                "API Credits",
+                "Compute Resources",
+                "Model Training"
+            ],
+            "documentation": "https://testnet.decentr.ai"
+        },
+        "token_economics": {
+            "total_supply": "1000000000",
+            "model_pricing": "Dynamic based on compute resources",
+            "staking_rewards": "Available for model providers",
+            "fee_structure": "Pay-per-compute"
+        }
+    },
+    "links": {
+        "website": "https://your-marketplace.com",
+        "documentation": "https://docs.your-marketplace.com/api",
+        "github": "https://github.com/your-marketplace",
+        "support": "https://support.your-marketplace.com"
+    },
+    "additional_info": {
+        "use_cases": [
+            "AI Model Access",
+            "API Usage Credits",
+            "Model Training Resources",
+            "Dataset Access"
+        ],
+        "target_users": [
+            "AI Developers",
+            "Data Scientists",
+            "Enterprise Users",
+            "Model Providers"
+        ]
+    }
+}
